@@ -1,0 +1,4 @@
+luis,hernandes,c1111,calle1,1,11
+julia,espinoza,c2222,calle2,2,12
+oscar,casco,c3333,calle3,3,13
+pepito,vaca,c4444,calle4,4,14
